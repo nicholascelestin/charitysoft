@@ -1,5 +1,4 @@
-// Import the Next.js types for API routes
-import { NextApiRequest, NextApiResponse } from 'next';
+import { NextApiResponse, NextApiRequest } from 'next'
 
 export default function handler(
   _req: NextApiRequest,
